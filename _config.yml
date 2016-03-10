@@ -1,0 +1,28 @@
+name: The IRL Show
+favicon: null
+layout_spectrum: 0.39125977153889835
+typography_spectrum: 0.48350327485240996
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9216814627870917
+  lightness: 0.9319680384360254
+  saturation: 0.9814235989470035
+  rhythmicContrast: 0.652399497339502
+purpose: []
